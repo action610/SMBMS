@@ -7,333 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f90c0bbe-192f-4d41-8d12-f1b404573e55" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/controller/ExceptionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/dao/AddressMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/dao/AddressMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/dao/BillMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/dao/BillMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/dao/ProviderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/dao/ProviderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/dao/RoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/dao/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/dao/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/dao/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/exception/UserException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/pojo/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/pojo/AddressExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/pojo/Bill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/pojo/BillExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/pojo/Provider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/pojo/ProviderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/pojo/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/pojo/RoleExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/pojo/UserExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/service/LoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/service/LoginServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smbms/utils/SqlSessionUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/c3p0-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/datasource.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/My97DatePicker.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/WdatePicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/lang/zh-tw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/skin/WdatePicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/skin/datePicker.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/skin/default/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/skin/default/img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/skin/whyGreen/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/skin/whyGreen/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/calendar/skin/whyGreen/img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/public.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/buy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/clock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/formBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/gys.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/leftBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/loginBg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/login_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/login_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/mm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/read.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/schu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/tc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/tianjia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/xiugai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/y.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/yh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/zd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/billadd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/billlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/billmodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/billview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/provideradd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/providerlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/providermodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/providerview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/pwdmodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/rollpage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/time.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/useradd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/userlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/usermodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/userview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/billadd.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/billlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/billmodify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/billview.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/common/foot.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/common/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/frame.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/provideradd.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/providerlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/providermodify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/providerview.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/pwdmodify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/rollpage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/useradd.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/userlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/usermodify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/userview.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/applicationContext-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/c3p0-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/controller/ExceptionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/dao/AddressMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/dao/AddressMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/dao/BillMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/dao/BillMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/dao/ProviderMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/dao/ProviderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/dao/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/dao/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/dao/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/dao/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/exception/UserException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/AddressExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/AddressExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/AddressExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/AddressExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/Bill.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/BillExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/BillExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/BillExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/BillExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/Provider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/ProviderExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/ProviderExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/ProviderExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/ProviderExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/RoleExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/RoleExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/RoleExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/RoleExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/UserExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/UserExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/UserExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/pojo/UserExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/service/LoginService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/service/LoginServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/com/smbms/utils/SqlSessionUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/datasource.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/aspectjweaver-1.8.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/c3p0-0.9.5.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/commons-fileupload-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/fastjson-1.2.60.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/jackson-annotations-2.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/jackson-core-2.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/jackson-databind-2.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/jsqlparser-2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/mchange-commons-java-0.2.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/mybatis-3.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/mybatis-spring-2.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/mysql-connector-java-5.1.48.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/pagehelper-5.1.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/spring-aop-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/spring-aspects-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/spring-beans-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/spring-context-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/spring-core-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/spring-expression-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/spring-jdbc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/spring-orm-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/spring-tx-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/spring-web-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/lib/spring-webmvc-4.3.25.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/My97DatePicker.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/WdatePicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/lang/zh-tw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/skin/WdatePicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/skin/datePicker.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/skin/default/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/skin/default/img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/skin/whyGreen/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/skin/whyGreen/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/calendar/skin/whyGreen/img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/css/public.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/buy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/clock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/formBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/gys.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/leftBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/loginBg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/login_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/login_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/mm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/read.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/schu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/tc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/tianjia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/xiugai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/y.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/yh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/images/zd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/billadd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/billlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/billmodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/billview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/provideradd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/providerlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/providermodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/providerview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/pwdmodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/rollpage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/time.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/useradd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/userlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/usermodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/js/userview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/billadd.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/billlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/billmodify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/billview.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/common/foot.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/common/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/frame.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/provideradd.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/providerlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/providermodify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/providerview.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/pwdmodify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/rollpage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/useradd.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/userlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/usermodify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SMBMS_SSM/jsp/userview.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/c3p0-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/controller/ExceptionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/dao/AddressMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/dao/AddressMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/dao/BillMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/dao/BillMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/dao/ProviderMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/dao/ProviderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/dao/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/dao/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/dao/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/dao/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/exception/UserException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/AddressExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/AddressExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/AddressExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/AddressExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/Bill.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/BillExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/BillExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/BillExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/BillExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/Provider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/ProviderExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/ProviderExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/ProviderExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/ProviderExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/RoleExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/RoleExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/RoleExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/RoleExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/UserExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/UserExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/UserExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/pojo/UserExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/service/LoginService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/service/LoginServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/smbms/utils/SqlSessionUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/datasource.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -381,6 +55,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -509,12 +184,24 @@
       <workItem from="1588912272401" duration="8353000" />
       <workItem from="1589068489443" duration="17115000" />
       <workItem from="1589154688813" duration="1490000" />
-      <workItem from="1589199358004" duration="844000" />
+      <workItem from="1589199358004" duration="1160000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1589200294186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589200294186</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="279" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589071029989">
@@ -534,6 +221,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="181" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1588922761157" />
+    <state x="1036" y="116" key="CommitChangelistDialog2" timestamp="1589200290884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1036" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589200290884" />
     <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1589199579781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -651,10 +342,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588868009371" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589200151374">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589200304141">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589200151374" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589200304141" />
     <state x="658" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1589068491450">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
