@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f90c0bbe-192f-4d41-8d12-f1b404573e55" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f90c0bbe-192f-4d41-8d12-f1b404573e55" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -184,7 +187,7 @@
       <workItem from="1588912272401" duration="8353000" />
       <workItem from="1589068489443" duration="17115000" />
       <workItem from="1589154688813" duration="1490000" />
-      <workItem from="1589199358004" duration="1160000" />
+      <workItem from="1589199358004" duration="1485000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1589200294186</created>
@@ -193,7 +196,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589200294186</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1589200527847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589200527847</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1589200667913</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589200667913</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,10 +238,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="181" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1588922761157" />
-    <state x="1036" y="116" key="CommitChangelistDialog2" timestamp="1589200622518">
+    <state x="1036" y="116" key="CommitChangelistDialog2" timestamp="1589200849361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1036" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589200622518" />
+    <state x="1036" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589200849361" />
     <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1589199579781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -342,10 +359,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588868009371" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589200532174">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589200685008">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589200532174" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589200685008" />
     <state x="658" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1589068491450">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
