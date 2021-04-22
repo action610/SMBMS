@@ -46,7 +46,7 @@
     <dependency>
       <groupId>org.mybatis</groupId>
       <artifactId>mybatis</artifactId>
-      <version>3.5.0</version>
+      <version>3.5.6</version>
     </dependency>
     <!--      AOP面向切面编程框架-->
     <dependency>
